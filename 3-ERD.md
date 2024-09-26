@@ -26,7 +26,11 @@ An ERD usually consists of rectangles for entities, ovals for attributes, and di
 
 In simple terms, an ERD is like a blueprint or map for how the data in your database is structured and connected, making it easier to design and understand the database.
 
-Example:
+Example-1:
 
 ![image](https://github.com/user-attachments/assets/7a4a2079-bed6-47c9-a831-f83294d9be9f)
+
+Example-2:
+
+![image](https://github.com/user-attachments/assets/b6db0277-df71-437f-be1a-935dddec3abd)
 
