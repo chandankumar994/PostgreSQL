@@ -1,3 +1,5 @@
+# `Normalization` and `Denormalization`
+
 ### **Normalization** (Simplifying and Organizing Data)
 
 **Normalization** is the process of organizing data in a database to avoid duplication and ensure that information is stored efficiently. It breaks data into smaller, more manageable tables and links them together using **relationships** (like foreign keys). This makes the data cleaner, more organized, and easier to manage.
