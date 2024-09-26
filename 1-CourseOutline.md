@@ -36,10 +36,23 @@ This course is designed to introduce engineering students to databases and Postg
   - Open-source, advanced object-relational database system.
 - **Features of PostgreSQL**
   - ACID compliance, scalability, and extensibility.
+    Let me break down these terms in simple, everyday language:
+
+      ### **ACID Compliance**
+      - **A** stands for **Atomicity**: Imagine you're transferring money from one bank account to another. If something goes wrong during the transfer (like the internet cuts out), the system will make sure either the entire transfer happens or none of it does. It’s all or nothing—no half-done tasks.
+      - **C** is for **Consistency**: After any operation (like adding or updating information), the database makes sure that everything still follows the rules. Think of it like a puzzle where every piece fits perfectly. If a wrong piece tries to fit in, the system won’t allow it.
+      - **I** means **Isolation**: If multiple people are working on the database at the same time (like two tellers processing transactions), they won’t mess up each other’s work. Each transaction happens as if it’s the only one, even if many are running together.
+      - **D** stands for **Durability**: Once the system says something is saved, it's saved forever—even if the power goes out or the system crashes. It’s like writing something down on paper instead of just thinking about it.
+      
+      ### **Scalability**
+      - Scalability means PostgreSQL can handle both small and huge amounts of data. Whether you’re running a database for a local bakery or for a giant company like Amazon, PostgreSQL can expand or shrink based on your needs, without slowing down too much.
+      
+      ### **Extensibility**
+      - Extensibility means that PostgreSQL is flexible and can be customized. Just like adding apps to your phone, you can add new features to PostgreSQL if needed, like special data types or custom functions that make it work exactly how you want for your specific project.
+      
+      In short, PostgreSQL is like a powerful, flexible, and reliable tool that can grow with your needs, and it makes sure that data is always safe and handled correctly.
 - **Installation and Setup**
   - Install PostgreSQL on different platforms (Windows, Mac, Linux).
-- **Connecting to PostgreSQL**
-  - Using `psql` command-line interface.
 
 ## 3. Database Design
 - **Data Models**
