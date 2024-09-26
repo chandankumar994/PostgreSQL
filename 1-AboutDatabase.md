@@ -1,4 +1,4 @@
-## About Database
+## Database
 #### Current trend : https://survey.stackoverflow.co/2024/technology#most-popular-technologies-database
 
 # PostgreSQL Syllabus for Beginners
@@ -106,23 +106,3 @@ This course is designed to introduce engineering students to databases and Postg
 - **Database Design Best Practices**
   - Proper use of indexes, normalization, and partitioning.
   
----
-
-## Resources
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-- [SQL Style Guide](https://www.sqlstyle.guide/)
-- [Database Normalization](https://www.studytonight.com/dbms/database-normalization.php)
-
-## Assignments
-- Create a sample database and tables using PostgreSQL.
-- Write queries to practice SQL basics and joins.
-- Optimize the database for performance using indexing.
-
----
-
-## Instructor Notes
-- Encourage hands-on sessions with `psql` and PgAdmin.
-- Provide real-world scenarios for database design and optimization.
-- Regularly quiz students on query optimization and performance tuning.
-
-
